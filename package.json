@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "once-esm": "file:",
+    "wrappy": "^1.0.2"
+  }
 }
